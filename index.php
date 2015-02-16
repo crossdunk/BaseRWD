@@ -102,7 +102,7 @@ html{
     <div class='block'>
 
         <div class='b_img'>
-          <img src='images/banner/2.jpg'>
+          <img src='images/2.jpg'>
         </div>
         <div class='b_price'>
         500
